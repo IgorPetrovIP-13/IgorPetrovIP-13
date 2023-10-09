@@ -1,8 +1,7 @@
 # Hey there 👋, I'm Igor (name is in the profile btw)
+## A passionate JS/TS developer from Ukraine studying at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
 
 <br />
-
-## A passionate Data Scientist/Python developer from Ukraine studying at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
 
 ## ✉️ How to reach me:
 <p>
