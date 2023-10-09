@@ -1,5 +1,7 @@
 # Hey there 👋, I'm Igor (name is in the profile btw)
 
+<br />
+
 ## ✉️ How to reach me:
 <p>
  <a href="https://t.me/pidodinero"><img src="https://github.com/IgorPetrovIP-13/IgorPetrovIP-13/blob/main/telegram-svgrepo-com%20(2).svg" alt="telegram" height="40"> </a>
