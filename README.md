@@ -1,4 +1,4 @@
-### Hey there (name is in the profile btw)
+# Hey there (name is in the profile btw)
 
 ## ✉️ How to reach me:
 <p>
