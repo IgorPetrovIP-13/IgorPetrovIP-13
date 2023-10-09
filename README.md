@@ -1,5 +1,5 @@
 # Hey there 👋, I'm Igor (name is in the profile btw)
-## A passionate JS/TS developer from Ukraine studying at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
+## A passionate JS/TS developer studying at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
 
 <br />
 
