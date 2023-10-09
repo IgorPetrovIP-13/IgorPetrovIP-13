@@ -9,7 +9,11 @@
 
 ## 🧰 Languages and Tools:
 <p>
- <img src="" alt="JS" height="40">
- <img src="" alt="TS" height="40">
- <img src="" alt="React" height="40">
+ <img src="https://github.com/IgorPetrovIP-13/IgorPetrovIP-13/blob/main/javascript-svgrepo-com.svg" alt="JS" height="40">
+ <img src="https://github.com/IgorPetrovIP-13/IgorPetrovIP-13/blob/main/typescript-svgrepo-com.svg" alt="TS" height="40">
+ <img src="https://github.com/IgorPetrovIP-13/IgorPetrovIP-13/blob/main/sass-svgrepo-com.svg" alt="Sass" height="40">
+ <img src="https://github.com/IgorPetrovIP-13/IgorPetrovIP-13/blob/main/react-svgrepo-com.svg" alt="React" height="40">
+ <img src="https://github.com/IgorPetrovIP-13/IgorPetrovIP-13/blob/main/nodejs-svgrepo-com.svg" alt="NodeJS" height="40">
+ <img src="https://github.com/IgorPetrovIP-13/IgorPetrovIP-13/blob/main/mongodb-svgrepo-com.svg" alt="MongoDb" height="40">
+ <img src="https://github.com/IgorPetrovIP-13/IgorPetrovIP-13/blob/main/firebase-1-logo-svgrepo-com.svg" alt="FireBase" height="40">
 </p>
